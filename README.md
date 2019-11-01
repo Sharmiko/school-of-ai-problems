@@ -1,2 +1,2 @@
 # school-of-ai-problems
-Problems/Exercises
+Problems of School of AI with solutions.
